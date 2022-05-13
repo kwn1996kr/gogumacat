@@ -55,14 +55,31 @@
 <br>
 <br>
 ## 구현화면
-<img src="https://user-images.githubusercontent.com/78460820/168263732-be77adaf-0a48-4d1f-bbf6-744f088d921e.png" align="left" width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264387-61b49a45-7441-461f-adb4-1145adb8b1f9.png" align="right"width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264418-fe572ed9-dcda-4ef4-95b5-414627321b5b.png" align="left"width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264493-bf9c9161-81c0-4d16-be32-2f6a602ba09a.png" align="right"width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264454-a332fd32-3024-486d-be6f-d42e27c4883d.png" align="left" width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264508-709af9f3-9390-4b41-94d6-91515d622a4d.png" align="right" width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264526-1aae36e8-7d7f-48f0-8b7c-b86c5d9c3084.png" align="left" width="450px" height="500px">
-<img src="https://user-images.githubusercontent.com/78460820/168264546-bd8e768b-dc32-4419-a6ae-675d41b13626.png" align="right"width="450px" height="500px">
+<img src="https://user-images.githubusercontent.com/78460820/168263732-be77adaf-0a48-4d1f-bbf6-744f088d921e.png"  width="450px" height="500px"> 
+로그인 페이지
+
+<img src="https://user-images.githubusercontent.com/78460820/168264387-61b49a45-7441-461f-adb4-1145adb8b1f9.png" width="450px" height="500px">
+메인 페이지
+
+<img src="https://user-images.githubusercontent.com/78460820/168264418-fe572ed9-dcda-4ef4-95b5-414627321b5b.png" width="450px" height="500px">
+게시물 페이지
+
+<img src="https://user-images.githubusercontent.com/78460820/168264493-bf9c9161-81c0-4d16-be32-2f6a602ba09a.png" width="450px" height="500px">
+채팅페이지
+
+<img src="https://user-images.githubusercontent.com/78460820/168264454-a332fd32-3024-486d-be6f-d42e27c4883d.png"  width="450px" height="500px">
+작성한 게시물 확인
+
+<img src="https://user-images.githubusercontent.com/78460820/168264508-709af9f3-9390-4b41-94d6-91515d622a4d.png"  width="450px" height="500px">
+관심상품 확인
+
+<img src="https://user-images.githubusercontent.com/78460820/168264526-1aae36e8-7d7f-48f0-8b7c-b86c5d9c3084.png"  width="450px" height="500px">
+개인정보 수정
+
+<img src="https://user-images.githubusercontent.com/78460820/168264546-bd8e768b-dc32-4419-a6ae-675d41b13626.png" width="450px" height="500px">
+게시물 등록하기
+
+
 
 
 
