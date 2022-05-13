@@ -31,6 +31,9 @@
 
 ## 📝와이어프레임
 
+<details><summary>와이어 프레임  
+</summary>
+  
 ![https://user-images.githubusercontent.com/90334610/167084274-254f2968-cf64-460e-8bab-fc74f10bfd7b.png](https://user-images.githubusercontent.com/90334610/167084274-254f2968-cf64-460e-8bab-fc74f10bfd7b.png)
 
 ![https://user-images.githubusercontent.com/90334610/167084302-859e8c32-801a-4d48-a4e4-97241dad0dbf.png](https://user-images.githubusercontent.com/90334610/167084302-859e8c32-801a-4d48-a4e4-97241dad0dbf.png)
@@ -48,36 +51,68 @@
 ![https://user-images.githubusercontent.com/90334610/167084454-735b708f-0a92-4ac8-8974-185c20de2944.png](https://user-images.githubusercontent.com/90334610/167084454-735b708f-0a92-4ac8-8974-185c20de2944.png)
 
 ![https://user-images.githubusercontent.com/90334610/167084458-b3a7cd9f-b1aa-455d-b74b-b76c1b48ca96.png](https://user-images.githubusercontent.com/90334610/167084458-b3a7cd9f-b1aa-455d-b74b-b76c1b48ca96.png)
+</details>
 <br>
-<br>
+
 ## API
-![image](https://user-images.githubusercontent.com/78460820/168253337-8bd48960-0861-42b0-9270-e3744bfca6d8.png)
+<details><summary>API
+</summary>
+
+ ![image](https://user-images.githubusercontent.com/78460820/168253337-8bd48960-0861-42b0-9270-e3744bfca6d8.png)
+</details>
 <br>
-<br>
+
 ## 구현화면
-<img src="https://user-images.githubusercontent.com/78460820/168263732-be77adaf-0a48-4d1f-bbf6-744f088d921e.png"  width="450px" height="500px"> 
-로그인 페이지
 
+<details><summary>구현 화면  
+</summary>
+  
+  
+### :point_down:<로그인 화면>
+<img src="https://user-images.githubusercontent.com/78460820/168263732-be77adaf-0a48-4d1f-bbf6-744f088d921e.png"  width="450px" height="500px"/> 
+<br>
+<br>  
+  
+### :point_down:<메인 화면>
 <img src="https://user-images.githubusercontent.com/78460820/168264387-61b49a45-7441-461f-adb4-1145adb8b1f9.png" width="450px" height="500px">
-메인 페이지
-
+<br>
+<br>  
+  
+### :point_down:<게시글 화면>
 <img src="https://user-images.githubusercontent.com/78460820/168264418-fe572ed9-dcda-4ef4-95b5-414627321b5b.png" width="450px" height="500px">
-게시물 페이지
-
+<br>
+<br>  
+  
+### :point_down:<채팅>
 <img src="https://user-images.githubusercontent.com/78460820/168264493-bf9c9161-81c0-4d16-be32-2f6a602ba09a.png" width="450px" height="500px">
-채팅페이지
-
+<br>
+<br>  
+  
+### :point_down:<작성한 게시물 확인>
 <img src="https://user-images.githubusercontent.com/78460820/168264454-a332fd32-3024-486d-be6f-d42e27c4883d.png"  width="450px" height="500px">
-작성한 게시물 확인
-
+<br>
+<br>  
+  
+### :point_down:<관심상품 확인>
 <img src="https://user-images.githubusercontent.com/78460820/168264508-709af9f3-9390-4b41-94d6-91515d622a4d.png"  width="450px" height="500px">
-관심상품 확인
-
+<br>
+<br>  
+  
+### :point_down:<개인정보 수정>
 <img src="https://user-images.githubusercontent.com/78460820/168264526-1aae36e8-7d7f-48f0-8b7c-b86c5d9c3084.png"  width="450px" height="500px">
-개인정보 수정
+<br>
+<br>  
 
+### :point_down:<게시물 등록하기>
 <img src="https://user-images.githubusercontent.com/78460820/168264546-bd8e768b-dc32-4419-a6ae-675d41b13626.png" width="450px" height="500px">
-게시물 등록하기
+<br>
+<br>  
+  
+</details>
+
+
+
+
 
 
 
